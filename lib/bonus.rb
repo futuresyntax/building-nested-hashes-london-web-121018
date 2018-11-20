@@ -30,4 +30,4 @@ def bonus
   [:capulet][:hero][:status]=> "dead"
   epic_tragedy
 end
-end
+
